@@ -4,7 +4,7 @@ docker ps
 
 2. SSH into the container
 ssh student@127.0.0.1 -p 2222
-# password: student
+**# password: student**
 
 3.Install XFCE4 + VNC inside the container
 sudo apt update
